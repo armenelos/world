@@ -452,6 +452,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-05-09 15:10:22 +0000",
+      "cooked_beef": "2020-06-26 17:08:43 +0000",
       "baked_potato": "2020-06-13 14:52:04 +0000",
       "beetroot_soup": "2020-05-09 16:17:37 +0000",
       "dried_kelp": "2020-05-09 15:26:20 +0000",
@@ -1477,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-06-26 17:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-05-25 11:08:03 +0000"
@@ -1882,6 +1889,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 15:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-06-26 17:02:50 +0000"
     },
     "done": true
   },

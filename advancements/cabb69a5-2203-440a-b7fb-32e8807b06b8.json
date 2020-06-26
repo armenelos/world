@@ -289,12 +289,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_logs": "2018-09-22 16:25:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2018-09-23 15:02:34 +0000"
@@ -517,12 +511,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_log": "2018-10-08 23:06:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-10 01:26:22 +0000"
@@ -628,11 +616,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-09-23 14:46:15 +0000",
-      "minecraft:zombie_pigman": "2020-04-28 03:32:00 +0000",
       "minecraft:ghast": "2018-10-06 04:38:24 +0000",
       "minecraft:spider": "2018-09-23 14:45:55 +0000",
       "minecraft:creeper": "2018-09-26 04:13:44 +0000",
       "minecraft:phantom": "2018-10-04 18:45:44 +0000",
+      "minecraft:zombified_piglin": "2020-04-28 03:32:00 +0000",
       "minecraft:witch": "2018-10-02 05:58:20 +0000",
       "minecraft:husk": "2018-10-08 23:00:22 +0000",
       "minecraft:cave_spider": "2018-10-02 05:22:14 +0000",
@@ -981,12 +969,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2018-09-22 16:32:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-09-23 15:19:26 +0000"
@@ -1023,12 +1005,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_log": "2018-09-22 16:25:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2018-09-23 14:10:58 +0000"
@@ -1053,12 +1029,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2018-09-23 14:30:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-09-23 15:19:26 +0000"
@@ -1068,12 +1038,6 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-09-23 21:26:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_string": "2020-04-04 20:14:31 +0000"
     },
     "done": true
   },
@@ -2181,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-06-23 03:14:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-09-23 14:15:59 +0000"
@@ -2208,6 +2178,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2018-09-23 14:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-06-23 03:14:59 +0000"
     },
     "done": true
   },
@@ -2823,13 +2799,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-10 01:26:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-10 01:26:22 +0000"
     },
@@ -2862,6 +2838,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2018-10-01 22:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-06-26 18:40:57 +0000"
     },
     "done": true
   },
@@ -2901,5 +2883,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2567
 }
