@@ -289,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-07-08 21:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2018-09-23 15:02:34 +0000"
@@ -322,6 +328,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2018-10-06 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-07-08 20:14:51 +0000"
     },
     "done": true
   },
@@ -511,6 +523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-07-08 20:48:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-10 01:26:22 +0000"
@@ -571,6 +589,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2020-07-08 22:13:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2018-09-22 16:34:42 +0000"
@@ -615,6 +639,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2020-07-08 21:36:04 +0000",
       "minecraft:skeleton": "2018-09-23 14:46:15 +0000",
       "minecraft:ghast": "2018-10-06 04:38:24 +0000",
       "minecraft:spider": "2018-09-23 14:45:55 +0000",
@@ -622,8 +647,10 @@
       "minecraft:phantom": "2018-10-04 18:45:44 +0000",
       "minecraft:zombified_piglin": "2020-04-28 03:32:00 +0000",
       "minecraft:witch": "2018-10-02 05:58:20 +0000",
+      "minecraft:wither_skeleton": "2020-07-08 21:36:15 +0000",
       "minecraft:husk": "2018-10-08 23:00:22 +0000",
       "minecraft:cave_spider": "2018-10-02 05:22:14 +0000",
+      "minecraft:piglin": "2020-07-08 21:39:54 +0000",
       "minecraft:enderman": "2018-10-13 03:38:31 +0000",
       "minecraft:stray": "2020-04-09 02:34:22 +0000",
       "minecraft:zombie": "2018-09-26 04:05:05 +0000",
@@ -771,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-07-08 21:57:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-10-01 16:05:44 +0000"
@@ -834,6 +867,18 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-11 02:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-07-08 21:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-07-08 22:08:13 +0000"
     },
     "done": true
   },
@@ -969,6 +1014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-07-08 20:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-09-23 15:19:26 +0000"
@@ -1026,6 +1077,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2018-09-23 14:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-07-08 20:50:20 +0000"
     },
     "done": true
   },
@@ -1373,9 +1430,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-07-08 21:25:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2020-05-28 01:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-07-08 20:14:51 +0000"
     },
     "done": true
   },
@@ -2223,6 +2292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-07-08 20:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2018-10-01 16:05:44 +0000"
@@ -2373,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-07-08 21:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-05-11 02:17:37 +0000"
@@ -2442,6 +2523,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2018-09-30 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-07-08 20:14:51 +0000"
     },
     "done": true
   },
@@ -2577,6 +2664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-07-08 21:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-05-11 02:30:14 +0000"
@@ -2616,6 +2709,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2020-04-10 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-07-08 21:43:23 +0000"
     },
     "done": true
   },
@@ -2691,6 +2790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-07-08 22:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2020-05-11 02:30:14 +0000"
@@ -2748,6 +2853,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-09-23 14:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-07-08 22:08:13 +0000"
     },
     "done": true
   },
@@ -2814,6 +2925,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2018-10-02 05:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-07-08 20:57:46 +0000"
     },
     "done": true
   },
