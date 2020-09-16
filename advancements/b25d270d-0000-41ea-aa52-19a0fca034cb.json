@@ -2504,6 +2504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-09-15 16:46:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-07-17 14:01:24 +0000"
@@ -3520,6 +3526,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2020-07-23 15:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2020-09-15 01:50:08 +0000"
     },
     "done": true
   },
