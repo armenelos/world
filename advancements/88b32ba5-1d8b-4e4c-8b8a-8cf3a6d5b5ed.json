@@ -2718,7 +2718,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/jellie.png": "2020-07-10 16:59:53 +0000"
+      "textures/entity/cat/jellie.png": "2020-07-10 16:59:53 +0000",
+      "textures/entity/cat/ragdoll.png": "2020-09-18 16:02:03 +0000"
     },
     "done": false
   },
