@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-09-26 12:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2020-07-26 15:09:55 +0000"
@@ -35,15 +41,33 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-09-26 12:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-09-24 19:11:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-09-26 12:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-07-26 15:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-09-26 12:13:02 +0000"
     },
     "done": true
   },
@@ -113,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-09-26 12:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-07-26 15:09:11 +0000"
@@ -143,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-09-26 12:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2020-07-26 15:08:48 +0000"
@@ -164,6 +200,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-09-24 19:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-09-26 12:54:31 +0000"
     },
     "done": true
   },
@@ -203,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-09-26 12:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-07-26 15:09:11 +0000"
@@ -221,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-09-26 12:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-07-26 15:08:51 +0000"
@@ -230,6 +284,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-07-26 15:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-09-26 12:41:42 +0000"
     },
     "done": true
   },
@@ -323,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-09-26 12:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2020-07-26 15:09:27 +0000"
@@ -335,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-09-26 12:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2020-09-24 19:11:13 +0000"
@@ -344,6 +416,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-09-24 19:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-09-26 12:30:33 +0000"
     },
     "done": true
   },
@@ -417,6 +495,9 @@
     "criteria": {
       "minecraft:forest": "2020-07-26 15:10:06 +0000",
       "minecraft:taiga": "2020-07-26 15:09:52 +0000",
+      "minecraft:snowy_tundra": "2020-09-26 12:15:10 +0000",
+      "minecraft:taiga_hills": "2020-09-26 12:39:09 +0000",
+      "minecraft:frozen_river": "2020-09-26 12:21:19 +0000",
       "minecraft:river": "2020-07-26 15:10:39 +0000",
       "minecraft:wooded_hills": "2020-07-26 15:06:54 +0000",
       "minecraft:plains": "2020-07-26 15:10:40 +0000"
@@ -507,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-09-26 12:17:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2020-07-26 15:09:11 +0000"
@@ -516,6 +603,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-07-26 15:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-09-26 12:16:25 +0000"
     },
     "done": true
   },
@@ -579,6 +672,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-09-26 12:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-26 15:08:48 +0000"
@@ -615,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-09-26 12:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-07-26 15:13:11 +0000"
@@ -623,9 +728,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2020-07-26 15:14:48 +0000"
+      "minecraft:skeleton": "2020-07-26 15:14:48 +0000",
+      "minecraft:spider": "2020-09-26 12:16:24 +0000",
+      "minecraft:creeper": "2020-09-26 12:17:27 +0000",
+      "minecraft:zombified_piglin": "2020-09-26 12:33:22 +0000",
+      "minecraft:piglin": "2020-09-26 12:33:57 +0000",
+      "minecraft:enderman": "2020-09-26 12:16:41 +0000",
+      "minecraft:zombie": "2020-09-26 12:13:35 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-09-26 12:13:02 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -636,6 +753,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-26 15:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-09-26 12:26:38 +0000"
     },
     "done": true
   },
@@ -657,9 +780,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-09-26 12:13:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2020-07-26 15:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-09-26 12:34:21 +0000"
     },
     "done": true
   },
@@ -678,6 +813,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2020-07-26 15:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-09-26 12:17:46 +0000"
     },
     "done": true
   },
@@ -714,6 +855,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-07-26 15:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-09-26 12:19:27 +0000"
     },
     "done": true
   },
