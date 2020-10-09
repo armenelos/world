@@ -211,6 +211,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2020-10-08 21:24:05 +0000",
       "bread": "2018-09-30 18:03:41 +0000",
       "cooked_chicken": "2020-04-29 01:49:06 +0000",
       "carrot": "2018-09-30 18:28:27 +0000"
@@ -1228,5 +1229,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2580
 }
