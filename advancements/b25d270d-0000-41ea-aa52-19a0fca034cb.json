@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2020-10-24 11:28:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-07-17 10:01:24 -0400"
@@ -1771,6 +1777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2020-10-24 12:49:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-03-22 13:49:02 -0400"
@@ -2488,6 +2500,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-07-23 19:43:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-10-24 12:41:25 -0400"
     },
     "done": true
   },
@@ -3432,6 +3450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-10-24 12:49:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2020-08-07 17:12:47 -0400"
@@ -3741,11 +3765,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-07-22 12:10:45 -0400",
+      "honey_bottle": "2020-10-24 12:49:22 -0400",
       "cooked_mutton": "2020-07-20 11:22:07 -0400",
       "cooked_beef": "2020-07-16 15:37:22 -0400",
       "chorus_fruit": "2020-07-26 12:22:52 -0400",
       "baked_potato": "2020-07-16 15:50:58 -0400",
       "potato": "2020-07-22 12:03:02 -0400",
+      "pumpkin_pie": "2020-10-24 12:12:41 -0400",
       "bread": "2020-07-19 15:17:21 -0400",
       "golden_apple": "2020-07-26 17:39:20 -0400",
       "suspicious_stew": "2020-08-07 16:42:17 -0400",
@@ -3928,6 +3954,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2020-07-25 18:17:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2020-10-24 11:28:22 -0400"
     },
     "done": true
   },
@@ -4510,6 +4542,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2020-07-18 19:05:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2020-10-24 11:28:22 -0400"
     },
     "done": true
   },
