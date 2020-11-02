@@ -933,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-11-01 09:40:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2020-07-30 11:11:28 -0400"
@@ -1637,6 +1643,7 @@
     "criteria": {
       "cooked_porkchop": "2020-07-24 13:23:17 -0400",
       "cooked_mutton": "2020-07-16 13:00:54 -0400",
+      "cooked_beef": "2020-11-01 09:30:45 -0500",
       "baked_potato": "2020-07-16 19:28:49 -0400",
       "bread": "2020-07-16 13:47:52 -0400",
       "cookie": "2020-07-16 13:08:01 -0400",
@@ -2053,6 +2060,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-07-19 12:19:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-11-01 09:40:31 -0500"
     },
     "done": true
   },
@@ -2575,6 +2588,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-07-16 13:24:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_the_recipe": "2020-11-01 09:28:05 -0500"
     },
     "done": true
   },
