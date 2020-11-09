@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2020-11-08 13:11:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-07-10 12:30:29 -0400"
@@ -542,6 +548,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-06-05 12:05:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-11-08 13:12:03 -0500"
     },
     "done": true
   },
@@ -1015,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-11-08 13:12:03 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-05-22 13:09:31 -0400"
@@ -1200,6 +1218,7 @@
       "minecraft:forest": "2020-05-09 10:54:05 -0400",
       "minecraft:mountains": "2020-10-17 13:26:19 -0400",
       "minecraft:taiga": "2020-05-09 11:09:28 -0400",
+      "minecraft:snowy_tundra": "2020-11-08 12:48:31 -0500",
       "minecraft:taiga_hills": "2020-05-09 11:14:07 -0400",
       "minecraft:frozen_river": "2020-06-19 12:18:31 -0400",
       "minecraft:dark_forest": "2020-09-11 12:50:07 -0400",
@@ -2716,6 +2735,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-07-05 07:22:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-11-08 13:12:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-11-08 13:36:29 -0500"
     },
     "done": true
   },
