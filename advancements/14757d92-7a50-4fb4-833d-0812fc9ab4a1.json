@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-11-11 17:42:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-07-16 14:08:17 -0400"
@@ -1139,11 +1145,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2020-11-11 17:45:13 -0500",
       "minecraft:forest": "2020-03-22 12:52:26 -0400",
       "minecraft:mountains": "2020-07-19 14:15:35 -0400",
       "minecraft:taiga": "2020-03-22 12:55:34 -0400",
+      "minecraft:snowy_tundra": "2020-11-11 17:44:57 -0500",
       "minecraft:taiga_hills": "2020-03-22 12:54:02 -0400",
       "minecraft:desert": "2020-07-19 12:12:46 -0400",
+      "minecraft:frozen_river": "2020-11-11 17:48:04 -0500",
       "minecraft:beach": "2020-07-24 12:59:38 -0400",
       "minecraft:dark_forest": "2020-07-22 12:21:18 -0400",
       "minecraft:river": "2020-03-22 12:55:31 -0400",
@@ -2171,6 +2180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-11-11 16:46:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-03-22 12:55:30 -0400"
@@ -2198,6 +2213,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-17 16:51:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-11-11 17:42:59 -0500"
     },
     "done": true
   },
@@ -2615,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-11-11 16:46:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-10-31 21:58:41 -0400"
@@ -2792,6 +2819,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-07-16 18:50:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-11-11 17:49:17 -0500"
     },
     "done": true
   },
