@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2020-11-13 16:30:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-04-25 17:51:59 -0400"
@@ -1795,6 +1801,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-05-13 18:07:45 -0400",
+      "minecraft:jungle_edge": "2020-11-13 17:11:00 -0500",
       "minecraft:snowy_mountains": "2020-05-13 15:05:51 -0400",
       "minecraft:forest": "2020-04-25 17:31:05 -0400",
       "minecraft:mountains": "2020-04-25 20:02:47 -0400",
@@ -1807,6 +1814,7 @@
       "minecraft:frozen_river": "2020-05-11 19:33:00 -0400",
       "minecraft:deep_frozen_ocean": "2020-07-12 12:08:37 -0400",
       "minecraft:jungle": "2020-07-21 13:11:07 -0400",
+      "minecraft:birch_forest": "2020-11-13 16:05:09 -0500",
       "minecraft:jungle_hills": "2020-07-21 13:21:19 -0400",
       "minecraft:snowy_beach": "2020-05-13 15:08:57 -0400",
       "minecraft:warm_ocean": "2020-05-03 15:08:03 -0400",
@@ -1817,6 +1825,7 @@
       "minecraft:river": "2020-04-25 17:32:49 -0400",
       "minecraft:lukewarm_ocean": "2020-05-03 14:52:38 -0400",
       "minecraft:snowy_taiga": "2020-05-02 10:16:19 -0400",
+      "minecraft:birch_forest_hills": "2020-11-13 16:04:59 -0500",
       "minecraft:wooded_mountains": "2020-04-25 20:02:53 -0400",
       "minecraft:wooded_hills": "2020-04-25 17:30:21 -0400",
       "minecraft:stone_shore": "2020-07-12 12:08:32 -0400",
@@ -2702,6 +2711,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-07-06 16:06:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2020-11-13 16:30:57 -0500"
     },
     "done": true
   },
