@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-11-28 12:25:54 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-05-22 12:53:44 -0400"
@@ -2340,6 +2346,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2020-07-05 07:22:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2020-11-28 11:25:06 -0500"
     },
     "done": true
   },
