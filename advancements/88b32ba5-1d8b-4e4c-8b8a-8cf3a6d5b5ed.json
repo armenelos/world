@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-12-05 12:37:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2020-05-22 12:53:35 -0400"
@@ -344,6 +350,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-05-09 11:11:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-12-05 11:51:56 -0500"
     },
     "done": true
   },
@@ -631,15 +643,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-12-05 11:53:02 -0500",
       "minecraft:skeleton": "2020-05-09 11:37:54 -0400",
+      "minecraft:vindicator": "2020-12-05 12:30:53 -0500",
       "minecraft:spider": "2020-05-25 07:19:48 -0400",
       "minecraft:creeper": "2020-05-22 11:22:49 -0400",
       "minecraft:slime": "2020-06-05 12:11:43 -0400",
       "minecraft:phantom": "2020-05-29 12:33:33 -0400",
       "minecraft:witch": "2020-05-09 11:41:46 -0400",
       "minecraft:enderman": "2020-06-19 12:11:56 -0400",
+      "minecraft:stray": "2020-12-05 12:40:24 -0500",
       "minecraft:zombie": "2020-05-09 11:19:03 -0400",
-      "minecraft:drowned": "2020-05-16 11:59:53 -0400"
+      "minecraft:drowned": "2020-05-16 11:59:53 -0400",
+      "minecraft:zombie_villager": "2020-12-05 12:41:31 -0500"
     },
     "done": false
   },
@@ -736,6 +752,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-05-22 11:06:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-12-05 11:53:02 -0500"
     },
     "done": true
   },
@@ -1233,16 +1255,28 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-12-05 11:11:30 -0500",
       "minecraft:forest": "2020-05-09 10:54:05 -0400",
       "minecraft:mountains": "2020-10-17 13:26:19 -0400",
       "minecraft:taiga": "2020-05-09 11:09:28 -0400",
+      "minecraft:desert_hills": "2020-12-05 13:01:25 -0500",
       "minecraft:snowy_tundra": "2020-11-08 12:48:31 -0500",
       "minecraft:taiga_hills": "2020-05-09 11:14:07 -0400",
+      "minecraft:desert": "2020-12-05 13:01:17 -0500",
       "minecraft:frozen_river": "2020-06-19 12:18:31 -0400",
+      "minecraft:snowy_beach": "2020-12-05 12:18:14 -0500",
+      "minecraft:warm_ocean": "2020-12-05 12:47:43 -0500",
+      "minecraft:deep_lukewarm_ocean": "2020-12-05 11:40:39 -0500",
+      "minecraft:beach": "2020-12-05 11:11:48 -0500",
       "minecraft:dark_forest": "2020-09-11 12:50:07 -0400",
       "minecraft:river": "2020-05-09 10:56:43 -0400",
+      "minecraft:lukewarm_ocean": "2020-12-05 11:40:38 -0500",
+      "minecraft:snowy_taiga": "2020-12-05 12:19:19 -0500",
       "minecraft:wooded_mountains": "2020-10-17 13:26:24 -0400",
       "minecraft:wooded_hills": "2020-05-09 10:53:35 -0400",
+      "minecraft:stone_shore": "2020-12-05 11:11:29 -0500",
+      "minecraft:snowy_taiga_hills": "2020-12-05 12:20:11 -0500",
+      "minecraft:savanna": "2020-12-05 13:06:07 -0500",
       "minecraft:plains": "2020-05-09 11:31:31 -0400"
     },
     "done": false
@@ -1622,6 +1656,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2020-05-16 11:47:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-12-05 12:33:34 -0500"
     },
     "done": true
   },
@@ -2724,6 +2764,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-05-25 06:40:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-12-05 12:02:40 -0500"
     },
     "done": true
   },

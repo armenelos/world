@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-12-05 11:48:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-07-16 13:24:11 -0400"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-12-05 11:48:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2020-10-31 17:21:50 -0400"
@@ -548,6 +560,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-10-31 16:52:38 -0400",
+      "minecraft:pillager": "2020-12-05 11:55:35 -0500",
       "minecraft:skeleton": "2020-07-16 13:56:02 -0400",
       "minecraft:magma_cube": "2020-10-31 21:49:42 -0400",
       "minecraft:spider": "2020-07-16 13:40:19 -0400",
@@ -1145,19 +1158,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-12-05 11:33:34 -0500",
       "minecraft:snowy_mountains": "2020-11-11 17:45:13 -0500",
       "minecraft:forest": "2020-03-22 12:52:26 -0400",
       "minecraft:mountains": "2020-07-19 14:15:35 -0400",
       "minecraft:taiga": "2020-03-22 12:55:34 -0400",
+      "minecraft:desert_hills": "2020-12-05 11:51:20 -0500",
       "minecraft:snowy_tundra": "2020-11-11 17:44:57 -0500",
       "minecraft:taiga_hills": "2020-03-22 12:54:02 -0400",
       "minecraft:desert": "2020-07-19 12:12:46 -0400",
       "minecraft:frozen_river": "2020-11-11 17:48:04 -0500",
+      "minecraft:deep_lukewarm_ocean": "2020-12-05 11:35:05 -0500",
       "minecraft:beach": "2020-07-24 12:59:38 -0400",
       "minecraft:dark_forest": "2020-07-22 12:21:18 -0400",
       "minecraft:river": "2020-03-22 12:55:31 -0400",
+      "minecraft:lukewarm_ocean": "2020-12-05 11:35:14 -0500",
       "minecraft:wooded_mountains": "2020-07-16 13:58:41 -0400",
       "minecraft:wooded_hills": "2020-03-22 13:45:15 -0400",
+      "minecraft:stone_shore": "2020-12-05 11:50:08 -0500",
+      "minecraft:savanna": "2020-12-05 11:51:49 -0500",
       "minecraft:plains": "2020-07-16 13:08:56 -0400"
     },
     "done": false
@@ -1252,6 +1271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-12-05 11:52:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-07-19 14:03:54 -0400"
@@ -1267,6 +1292,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-07-24 13:09:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-12-05 11:48:02 -0500"
     },
     "done": true
   },
@@ -1889,6 +1920,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-07-30 12:05:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-12-05 11:52:05 -0500"
     },
     "done": true
   },
@@ -2642,6 +2679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-12-05 11:44:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-10-31 21:58:41 -0400"
@@ -2780,6 +2823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2020-12-05 11:52:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-07-16 18:22:42 -0400"
@@ -2882,5 +2931,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 2584
 }

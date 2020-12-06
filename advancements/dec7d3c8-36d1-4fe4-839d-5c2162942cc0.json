@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-12-05 12:11:48 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-05-04 19:23:48 -0400"
@@ -940,6 +946,7 @@
       "minecraft:blaze": "2020-06-29 22:36:45 -0400",
       "minecraft:pillager": "2020-07-17 17:03:09 -0400",
       "minecraft:skeleton": "2020-04-26 12:11:54 -0400",
+      "minecraft:ravager": "2020-12-05 12:33:02 -0500",
       "minecraft:magma_cube": "2020-06-29 22:36:01 -0400",
       "minecraft:spider": "2020-04-26 15:56:14 -0400",
       "minecraft:creeper": "2020-04-26 12:15:14 -0400",
@@ -952,6 +959,7 @@
       "minecraft:shulker": "2020-07-14 15:32:45 -0400",
       "minecraft:cave_spider": "2020-07-17 16:44:02 -0400",
       "minecraft:enderman": "2020-05-04 19:49:03 -0400",
+      "minecraft:stray": "2020-12-05 12:20:48 -0500",
       "minecraft:zombie": "2020-04-25 19:31:00 -0400",
       "minecraft:drowned": "2020-04-25 19:37:26 -0400",
       "minecraft:zombie_villager": "2020-05-01 15:29:06 -0400"
@@ -1093,6 +1101,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-07-27 13:17:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-12-05 12:33:33 -0500"
     },
     "done": true
   },
@@ -1914,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-12-05 12:11:48 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2020-07-11 13:07:11 -0400"
@@ -2454,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-12-05 12:33:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-04-26 12:33:53 -0400"
@@ -2822,6 +2848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-12-05 12:11:48 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2020-04-25 17:45:07 -0400"
@@ -3001,7 +3033,8 @@
       "minecraft:pig": "2020-07-22 12:44:57 -0400",
       "minecraft:sheep": "2020-06-27 15:20:05 -0400",
       "minecraft:cow": "2020-04-27 21:13:28 -0400",
-      "minecraft:chicken": "2020-04-26 15:59:59 -0400"
+      "minecraft:chicken": "2020-04-26 15:59:59 -0400",
+      "minecraft:wolf": "2020-12-05 22:44:33 -0500"
     },
     "done": false
   },
@@ -3104,6 +3137,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-04-25 17:51:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-12-05 12:11:48 -0500"
     },
     "done": true
   },
@@ -3320,6 +3359,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2020-07-09 09:29:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-12-05 11:56:04 -0500"
     },
     "done": true
   },
@@ -3566,6 +3611,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_spruce_planks": "2020-04-25 19:50:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-12-05 12:11:48 -0500"
     },
     "done": true
   },
@@ -4112,6 +4163,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-22 12:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-12-05 12:11:48 -0500"
     },
     "done": true
   },
