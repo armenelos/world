@@ -695,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-12-06 22:08:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2020-06-09 18:08:00 -0400"
@@ -3471,6 +3477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-12-06 02:36:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-06-05 21:34:22 -0400"
@@ -3861,6 +3873,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-12-06 22:08:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-06-05 16:07:37 -0400"
@@ -3908,6 +3926,7 @@
       "chorus_fruit": "2020-07-09 21:10:12 -0400",
       "baked_potato": "2020-06-06 18:02:44 -0400",
       "beef": "2020-07-07 15:03:53 -0400",
+      "apple": "2020-12-06 01:38:12 -0500",
       "spider_eye": "2020-07-03 21:19:51 -0400",
       "potato": "2020-06-07 00:05:19 -0400",
       "poisonous_potato": "2020-06-08 18:22:54 -0400",
@@ -4541,6 +4560,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-06-21 17:16:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-12-06 02:36:07 -0500"
     },
     "done": true
   },
